@@ -1,2 +1,1 @@
-# docker-stftp
-Simple TFTP server in a container
+TFTP server with Subversion in a container
